@@ -1,0 +1,12 @@
+D:\estudos\ChatBot\ChatBot.Infraestructure\bin\Debug\net6.0\ChatBot.Infraestructure.deps.json
+D:\estudos\ChatBot\ChatBot.Infraestructure\bin\Debug\net6.0\ChatBot.Infraestructure.dll
+D:\estudos\ChatBot\ChatBot.Infraestructure\bin\Debug\net6.0\ChatBot.Infraestructure.pdb
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.csproj.AssemblyReference.cache
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.AssemblyInfoInputs.cache
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.AssemblyInfo.cs
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.csproj.CoreCompileInputs.cache
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.dll
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\refint\ChatBot.Infraestructure.dll
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ChatBot.Infraestructure.pdb
+D:\estudos\ChatBot\ChatBot.Infraestructure\obj\Debug\net6.0\ref\ChatBot.Infraestructure.dll
